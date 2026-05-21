@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.erkconsult.com/sitemap.xml
+Sitemap: https://erkconsult.com/sitemap.xml
