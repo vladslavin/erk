@@ -2,3 +2,6 @@
 *.tar.gz
 mockup/
 .claude/
+.playwright-mcp/
+og-form-ready.png
+og-result.png
